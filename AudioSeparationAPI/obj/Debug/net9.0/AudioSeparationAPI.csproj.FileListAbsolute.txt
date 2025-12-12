@@ -119,3 +119,4 @@ C:\Audio Proccess\AudioSeparationSite\AudioSeparationAPI\obj\Debug\net9.0\AudioS
 C:\Audio Proccess\AudioSeparationSite\AudioSeparationAPI\obj\Debug\net9.0\AudioSeparationAPI.genruntimeconfig.cache
 C:\Audio Proccess\AudioSeparationSite\AudioSeparationAPI\obj\Debug\net9.0\ref\AudioSeparationAPI.dll
 C:\Audio Proccess\AudioSeparationSite\AudioSeparationAPI\bin\Debug\net9.0\AudioSeparationAPI.staticwebassets.runtime.json
+C:\Audio Proccess\AudioSeparationSite\AudioSeparationAPI\obj\Debug\net9.0\AudioSeparationAPI.sourcelink.json
