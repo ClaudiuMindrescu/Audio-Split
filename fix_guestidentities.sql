@@ -1,0 +1,11 @@
+﻿DROP TABLE IF EXISTS GuestIdentities;
+
+CREATE TABLE GuestIdentities (
+    Id INT PRIMARY KEY AUTO_INCREMENT,
+    Token VARCHAR(255) NOT NULL UNIQUE,
+    CreatedAt DATETIME NOT NULL,
+    ExpiresAt DATETIME NOT NULL,
+    DailyLimit INT NOT NULL,
+    UsedToday INT NOT NULL,
+    LastResetDate DATETIME NULL
+);
